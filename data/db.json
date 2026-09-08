@@ -1,0 +1,59 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "titulo": "Tarea 1",
+      "prioridad": "Alta",
+      "completada": false
+    },
+    {
+      "id": "2",
+      "titulo": "Tarea 2",
+      "prioridad": "Media",
+      "completada": true
+    },
+    {
+      "titulo": "sample",
+      "prioridad": "Alta",
+      "completada": true,
+      "id": "xwPsOpgGaIg"
+    },
+    {
+      "titulo": "Ejemplo Tarea",
+      "prioridad": "Alta",
+      "completar": true,
+      "id": "ugIcLVqSSz0"
+    },
+    {
+      "titulo": "Ejemplo Tarea",
+      "prioridad": "Alta",
+      "completar": true,
+      "id": "D3PHEbnivq4"
+    },
+    {
+      "titulo": "Ejemplo Tarea",
+      "prioridad": "Alta",
+      "completar": true,
+      "id": "jYtptgKAb2w"
+    },
+    {
+      "titulo": "Ejemplo mil",
+      "prioridad": "Alta",
+      "completar": true,
+      "id": "ohWcALzD2v8"
+    },
+    {
+      "titulo": "E 200",
+      "prioridad": "Alta",
+      "completada": false,
+      "id": "6U8wuVumgwc"
+    },
+    {
+      "id": "lzjxT0y-hWc",
+      "titulo": "Tarea 3",
+      "prioridad": "Alta",
+      "completada": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
