@@ -1,5 +1,6 @@
 import React from 'react'
-import type { Todo } from '../interfaces/Form'
+import type { Todo } 
+from '../../interfaces//todos/Form'
 import { FiAlertTriangle } from 'react-icons/fi'
 interface ItemTodoProps{
     t: Todo

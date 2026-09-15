@@ -1,6 +1,8 @@
 import {useState} from 'react'
 import type { ChangeEvent } from 'react'
-import type { TodoForm, Todo, Priority} from '../interfaces/Form'
+import type { TodoForm, Todo, Priority} 
+
+from '../../interfaces/todos/Form'
 
 
 //interface en la cual definimos un Prop

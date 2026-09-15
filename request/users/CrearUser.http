@@ -1,0 +1,8 @@
+POST http://localhost:3006/users HTTP/1.1
+content-type: application/json
+
+{
+    "nombre" :"Ana Banana",
+    "email" :"ab@sena.edu.co",
+    "rol" : "Dev"
+}

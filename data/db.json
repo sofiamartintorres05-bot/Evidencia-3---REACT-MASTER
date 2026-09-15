@@ -55,5 +55,25 @@
       "completada": false
     }
   ],
+  "users": [
+    {
+      "id": "1",
+      "nombre": "Mariana Parra",
+      "email": "mcp@sena.edu.co",
+      "rol": "Admin"
+    },
+    {
+      "id": "2",
+      "nombre": "Sofia Martin",
+      "email": "smt@sena.edu.co",
+      "rol": "Dev"
+    },
+    {
+      "nombre": "Ana Banana",
+      "email": "ab@sena.edu.co",
+      "rol": "Dev",
+      "id": "1Rc-uBv1hhw"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
